@@ -1,0 +1,102 @@
+{
+    "name": "Conferma",
+    "description": "Redefining corporate payment technology with Virtual Card Numbers. Experts in corporate travel and expense, extending VCNs into B2B payments",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/561-conferma.jpg",
+    "tags": [
+        "api not found",
+        "bookings",
+        "has api",
+        "have api",
+        "hotels",
+        "marketplaces",
+        "no api definition",
+        "payments"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/conferma\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Conferma",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/561-conferma.jpg",
+            "humanURL": "http:\/\/www.conferma.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/conferma-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/conferma-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.conferma.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/confermation.blogspot.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.conferma.com\/AboutUs\/Press\/PressRss.ashx"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/confirma"
+        },
+        {
+            "type": "Email",
+            "url": "support@conferma.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@conferma.com"
+        },
+        {
+            "type": "Email",
+            "url": "careers@conferma.com"
+        },
+        {
+            "type": "Email",
+            "url": "enquiries@conferma.com"
+        },
+        {
+            "type": "Email",
+            "url": "Darren.Blair@conferma.com"
+        },
+        {
+            "type": "Email",
+            "url": "desmond.chong@conferma.com"
+        },
+        {
+            "type": "Partners",
+            "url": "https:\/\/www.conferma.com\/about-conferma\/our-partners"
+        },
+        {
+            "type": "Privacy",
+            "url": "https:\/\/www.conferma.com\/privacy"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "https:\/\/www.conferma.com\/terms-conditions"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Conferma"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.conferma.com"
+        }
+    ]
+}
