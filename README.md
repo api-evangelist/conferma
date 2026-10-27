@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Conferma is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.conferma.com/
+Conferma provides virtual payment solutions for businesses, enabling streamlined, secure, and automated corporate payments across travel, hotels, and supplier ecosystems. Their platform offers APIs for payment processing, virtual card issuance, expense data reporting, and integration tools that help companies simplify global business spend and improve financial visibility.
+
+**Areas:** Company · Payments · Virtual-Card · API · FinTech · B2B
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.conferma.com/)
+- [Documentation](https://www.conferma.com/platform/api/)
+- [Support](https://help.conferma.com/hc/en-us)
+- [Terms of service](https://app.conferma.com/Terms.aspx)
+- [Privacy policy](https://app.conferma.com/Privacy.aspx)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/conferma/](https://apis.io/providers/conferma/).
